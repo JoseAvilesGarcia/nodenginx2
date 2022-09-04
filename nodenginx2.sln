@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "nodenginx2", "nodenginx2.njsproj", "{0927B69B-EECB-4B2E-88C2-B52858FB5DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0927B69B-EECB-4B2E-88C2-B52858FB5DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0927B69B-EECB-4B2E-88C2-B52858FB5DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0927B69B-EECB-4B2E-88C2-B52858FB5DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0927B69B-EECB-4B2E-88C2-B52858FB5DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55977EB-0A15-4D38-8770-3FB68A502619}
+	EndGlobalSection
+EndGlobal

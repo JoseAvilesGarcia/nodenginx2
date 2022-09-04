@@ -1,0 +1,13 @@
+extends layout
+
+
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  p Estas ejecutando: #{req.session.appname} en el nodo:  #{req.session.nodo}
+
+  p usuario conectado #{req.session.usuario}
+
+  p mi mascota preferida  #{req.session.mimascota}

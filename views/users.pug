@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p Bienvenido a esta demo  #{title}
+
+  form(id="login" action="" method="post")
+        input(type="text", name="usuario", value= obj.nombre, placeholder="Tu nombre")
+        br
+        input(type="password", name="password", value="", placeholder="Tu password")
+        br
+        input(type="submit" value="Conectar")
+
